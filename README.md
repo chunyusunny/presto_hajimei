@@ -25,5 +25,9 @@ HyperLogLog 算法在 Presto 的应用<br/>
 2. 在本地 docker 环境或阿里云 e-mapreduce 环境进行 SQL 查询，
    要求在 Presto 中使用 HyperLogLog 计算近似基数。（请自行创
    建表并插入若干数据）<br/>
+   ![E3B77AB5-20A0-4244-8C8F-4496B863131E](https://user-images.githubusercontent.com/11592423/136693286-899e65f0-f661-4f87-b1e8-ba9e5c5d209b.png)
+![F0BD2AA2-A9FA-4174-8410-2060C2694FFA](https://user-images.githubusercontent.com/11592423/136693314-0cf0ebf0-9924-46bb-b31e-93bfdf7994e6.png)
+![1CF39341-F23B-497F-BAF6-B32F39BE6465](https://user-images.githubusercontent.com/11592423/136693417-efd1ce2d-1ff4-4fca-bb75-c99d1a85258a.png)
+
 3. 学习使用 Presto-Jdbc 库连接 docker 或 e-mapreduce 环境，重
    复上述查询。（选做）<br/>
